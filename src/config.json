@@ -1,0 +1,7 @@
+{
+  "window_size": 60,
+  "target": "YOUR_DEVICE",
+  "known_mac_addresses": {
+    "YOUR_DEVICE": "XX:XX:XX:XX:XX:XX"
+  }
+}
